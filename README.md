@@ -1,5 +1,6 @@
 # 💫 About Me:
-Working on Machine Learning Projects.<br>Learning Computer Vision & Deep Learning.<br>
+🎓 Currently pursuing BE in Artificial Intelligence and Data Science with a focus on Machine Learning and Deep Learning. Passionate about leveraging data-driven insights to solve real-world problems.<br>
+💼 Proficient in Python, with hands-on experience in machine learning, deep learning, and natural language processing (NLP). Skilled in data analysis, modeling, and visualization techniques.
 
 
 ## 🌐 Socials:
