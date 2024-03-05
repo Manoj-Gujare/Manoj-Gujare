@@ -16,7 +16,7 @@ Working on Machine Learning Projects.<br>Learning Computer Vision & Deep Learnin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manoj-Gujare&icon=0&color=0)](https://visitcount.itsvg.in)
