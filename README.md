@@ -17,7 +17,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Manoj-Gujare&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
