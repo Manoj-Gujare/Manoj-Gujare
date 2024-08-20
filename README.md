@@ -1,7 +1,11 @@
 # 💫 About Me:
-🎓 Currently pursuing BE in Artificial Intelligence and Data Science with a focus on Machine Learning and Deep Learning. Passionate about leveraging data-driven insights to solve real-world problems.<br>
-💼 Proficient in Python, with hands-on experience in machine learning, deep learning, and natural language processing (NLP). Skilled in data analysis, modeling, and visualization techniques.
+🎓 Recent graduate with a Bachelor of Engineering in Artificial Intelligence & Data Science from Savitribai Phule Pune University, with a CGPA of 9.41. Passionate about leveraging AI and data-driven insights to solve real-world problems.
 
+💼 Proficient in Python, Machine Learning, Deep Learning, and Natural Language Processing (NLP). Skilled in data analysis, modeling, and visualization techniques, with hands-on experience in tools like TensorFlow, Keras, Scikit-Learn, OpenCV, and Streamlit.
+
+🚀 Actively expanding my knowledge in cutting-edge areas such as Generative AI, Large Language Models (LLMs), MLOps, and Computer Vision. I am eager to contribute to innovative projects that drive impactful AI solutions.
+
+💻 Open to opportunities in the Data Science domain, with a strong interest in industry-level projects that include MLOps, generative AI, LLMs, and computer vision.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-gujare/) 
