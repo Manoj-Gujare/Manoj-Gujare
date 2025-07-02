@@ -47,11 +47,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-Gujare&theme=tokyonight&hide_border=false&include_all_commits=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-Gujare&theme=tokyonight&hide_border=false&include_all_commits=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Manoj-Gujare&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Gujare&layout=compact&theme=tokyonight&hide_border=false&langs_count=4" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Gujare&layout=compact&theme=tokyonight&hide_border=false"/>
 </p>
 
 </td>
